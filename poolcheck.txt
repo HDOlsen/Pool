@@ -1,0 +1,7 @@
+session start: Sun May 13 19:00:30 2018 duration: 0:00:06.662970 %d
+session start: Sun May 13 19:03:58 2018 duration: 0:00:06.134376 %d
+session table: 11 session start: Sun May 13 19:05:50 2018 duration: 0:00:04.861700 
+session table: 11 | session start: Sun May 13 19:36:36 2018 | duration: 0:00:03.908302 
+session table: 11 | session start: Sun May 13 19:38:11 2018 | duration: 0:00:04.734253 
+session table: 11 | session start: Sun May 13 19:40:36 2018 | duration: 0:00:02.524507 
+session table: 11 | session start: Sun May 13 19:42:05 2018 | duration: 0:00:03.700579 
